@@ -1,2 +1,9 @@
-# blackjack21
-One of the most popular card is black jack or 21. In this project, I want to implement this game using C#.
+# BlackJack created with C#
+Let's build BlackJack card game using C# and .NET Core.
+
+Project goals:
+- Must run on windows, mac, and linux 
+- Must use open source tools 
+- Must use unit tests to verify logic
+
+For the game requirements, please visit http://www.bicyclecards.com/how-to-play/blackjack/
