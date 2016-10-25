@@ -1,4 +1,4 @@
-# BlackJack created with C#
+# BlackJack created with C&#35;
 Let's build BlackJack card game using C# and .NET Core.
 
 Project goals:
