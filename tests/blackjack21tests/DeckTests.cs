@@ -9,7 +9,7 @@ namespace blackjack21tests
         public void DeckHas52Cards()
         {
             var deck = new Deck();
-            //Assert.True(deck.Count == 52);    
+            Assert.True(deck.Count == 1);    
         }
     }
 }
